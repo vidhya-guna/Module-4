@@ -26,6 +26,9 @@ ci.mech(r)
 Add code here
 
 ## Output
-<img width="741" height="371" alt="image" src="https://github.com/user-attachments/assets/e5819d13-3476-4206-b580-ce6873b1ad5f" />
+<img width="663" height="201" alt="image" src="https://github.com/user-attachments/assets/d3aa7eb3-33e7-4eda-9590-4e8623a92723" />
+
 
 ## Result
+Thus , the program has been executed succesfully.
+
