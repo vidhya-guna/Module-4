@@ -25,3 +25,4 @@ print("Sum :", count)
 <img width="459" height="202" alt="image" src="https://github.com/user-attachments/assets/59511360-551e-4f70-b1fb-4445bb23398a" />
 
 ## Result
+Thus , the program has been executed succesfully.
